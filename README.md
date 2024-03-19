@@ -4,7 +4,6 @@ Mainly developes RESTful API Backend Servers using Node.js.
 
 Had been working at Tomato Corporation(System Integration) in Tokyo Japan before,
 
-and now working at DoubleChain(Block Chain Service) in Seoul South Korea.
 
 ### Skill Set
 Language
